@@ -6,7 +6,3 @@ lines of text
 
 even more
 ------------------------------
-
-text text text
-
-text text
